@@ -2,76 +2,76 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-22T22:41:22 IST" name="Demoblaze Automation Test Suite" finished-at="2025-04-22T22:42:21 IST" duration-ms="59475">
+  <suite started-at="2025-04-22T23:51:58 IST" name="Demoblaze Automation Test Suite" finished-at="2025-04-22T23:53:11 IST" duration-ms="72600">
     <groups>
     </groups>
-    <test started-at="2025-04-22T22:41:22 IST" name="All Test Cases" finished-at="2025-04-22T22:42:21 IST" duration-ms="59475">
+    <test started-at="2025-04-22T23:51:58 IST" name="All Test Cases" finished-at="2025-04-22T23:53:11 IST" duration-ms="72600">
       <class name="Test.TC_005_CartFunctionalityTest">
-        <test-method signature="verifyCartFunctionality()[pri:0, instance:Test.TC_005_CartFunctionalityTest@23348b5d]" started-at="2025-04-22T22:41:50 IST" name="verifyCartFunctionality" finished-at="2025-04-22T22:42:04 IST" duration-ms="13706" status="PASS">
+        <test-method signature="verifyCartFunctionality()[pri:0, instance:Test.TC_005_CartFunctionalityTest@23348b5d]" started-at="2025-04-22T23:52:36 IST" name="verifyCartFunctionality" finished-at="2025-04-22T23:52:50 IST" duration-ms="14567" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCartFunctionality -->
       </class> <!-- Test.TC_005_CartFunctionalityTest -->
       <class name="Test.TC_004_ProductDetailTest">
-        <test-method signature="verifyProductDetailAndAddToCart()[pri:0, instance:Test.TC_004_ProductDetailTest@2df3b89c]" started-at="2025-04-22T22:41:41 IST" name="verifyProductDetailAndAddToCart" finished-at="2025-04-22T22:41:50 IST" duration-ms="8879" status="PASS">
+        <test-method signature="verifyProductDetailAndAddToCart()[pri:0, instance:Test.TC_004_ProductDetailTest@2df3b89c]" started-at="2025-04-22T23:52:25 IST" name="verifyProductDetailAndAddToCart" finished-at="2025-04-22T23:52:35 IST" duration-ms="10242" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyProductDetailAndAddToCart -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Test.TC_004_ProductDetailTest@2df3b89c]" started-at="2025-04-22T22:41:50 IST" name="closeBrowser" finished-at="2025-04-22T22:41:50 IST" duration-ms="326" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Test.TC_004_ProductDetailTest@2df3b89c]" started-at="2025-04-22T23:52:35 IST" name="closeBrowser" finished-at="2025-04-22T23:52:36 IST" duration-ms="599" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- Test.TC_004_ProductDetailTest -->
       <class name="Test.TC_002_LoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.TC_002_LoginTest@55b0dcab]" started-at="2025-04-22T22:41:27 IST" name="setUp" finished-at="2025-04-22T22:41:30 IST" duration-ms="2726" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.TC_002_LoginTest@55b0dcab]" started-at="2025-04-22T23:52:07 IST" name="setUp" finished-at="2025-04-22T23:52:11 IST" duration-ms="3179" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyLoginFunctionality()[pri:0, instance:Test.TC_002_LoginTest@55b0dcab]" started-at="2025-04-22T22:41:30 IST" name="verifyLoginFunctionality" finished-at="2025-04-22T22:41:33 IST" duration-ms="3104" status="PASS">
+        <test-method signature="verifyLoginFunctionality()[pri:0, instance:Test.TC_002_LoginTest@55b0dcab]" started-at="2025-04-22T23:52:11 IST" name="verifyLoginFunctionality" finished-at="2025-04-22T23:52:15 IST" duration-ms="4193" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginFunctionality -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.TC_002_LoginTest@55b0dcab]" started-at="2025-04-22T22:41:33 IST" name="tearDown" finished-at="2025-04-22T22:41:34 IST" duration-ms="1108" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.TC_002_LoginTest@55b0dcab]" started-at="2025-04-22T23:52:15 IST" name="tearDown" finished-at="2025-04-22T23:52:18 IST" duration-ms="3180" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- Test.TC_002_LoginTest -->
       <class name="Test.TC_001_SignUpTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Test.TC_001_SignUpTest@179ece50]" started-at="2025-04-22T22:41:22 IST" name="setup" finished-at="2025-04-22T22:41:25 IST" duration-ms="3037" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.TC_001_SignUpTest@179ece50]" started-at="2025-04-22T23:51:58 IST" name="setup" finished-at="2025-04-22T23:52:03 IST" duration-ms="5000" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifySignUpButtonFunctionality()[pri:0, instance:Test.TC_001_SignUpTest@179ece50]" started-at="2025-04-22T22:41:25 IST" name="verifySignUpButtonFunctionality" finished-at="2025-04-22T22:41:27 IST" duration-ms="1747" status="PASS">
+        <test-method signature="verifySignUpButtonFunctionality()[pri:0, instance:Test.TC_001_SignUpTest@179ece50]" started-at="2025-04-22T23:52:03 IST" name="verifySignUpButtonFunctionality" finished-at="2025-04-22T23:52:04 IST" duration-ms="1178" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySignUpButtonFunctionality -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.TC_001_SignUpTest@179ece50]" started-at="2025-04-22T22:41:27 IST" name="tearDown" finished-at="2025-04-22T22:41:27 IST" duration-ms="755" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.TC_001_SignUpTest@179ece50]" started-at="2025-04-22T23:52:04 IST" name="tearDown" finished-at="2025-04-22T23:52:07 IST" duration-ms="2885" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- Test.TC_001_SignUpTest -->
       <class name="Test.TC_003_ProductCategoriesAndDisplayTest">
-        <test-method signature="verifyHomePageElements()[pri:0, instance:Test.TC_003_ProductCategoriesAndDisplayTest@38afe297]" started-at="2025-04-22T22:41:34 IST" name="verifyHomePageElements" finished-at="2025-04-22T22:41:41 IST" duration-ms="6672" status="PASS">
+        <test-method signature="verifyHomePageElements()[pri:0, instance:Test.TC_003_ProductCategoriesAndDisplayTest@38afe297]" started-at="2025-04-22T23:52:18 IST" name="verifyHomePageElements" finished-at="2025-04-22T23:52:25 IST" duration-ms="7050" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomePageElements -->
       </class> <!-- Test.TC_003_ProductCategoriesAndDisplayTest -->
       <class name="Test.TC_007_LogoutTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.TC_007_LogoutTest@37ceb1df]" started-at="2025-04-22T22:42:15 IST" name="setUp" finished-at="2025-04-22T22:42:17 IST" duration-ms="1741" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.TC_007_LogoutTest@37ceb1df]" started-at="2025-04-22T23:53:03 IST" name="setUp" finished-at="2025-04-22T23:53:06 IST" duration-ms="2855" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyLogoutFunctionality()[pri:0, instance:Test.TC_007_LogoutTest@37ceb1df]" started-at="2025-04-22T22:42:17 IST" name="verifyLogoutFunctionality" finished-at="2025-04-22T22:42:21 IST" duration-ms="3788" status="PASS">
+        <test-method signature="verifyLogoutFunctionality()[pri:0, instance:Test.TC_007_LogoutTest@37ceb1df]" started-at="2025-04-22T23:53:06 IST" name="verifyLogoutFunctionality" finished-at="2025-04-22T23:53:10 IST" duration-ms="4074" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogoutFunctionality -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.TC_007_LogoutTest@37ceb1df]" started-at="2025-04-22T22:42:21 IST" name="tearDown" finished-at="2025-04-22T22:42:21 IST" duration-ms="280" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.TC_007_LogoutTest@37ceb1df]" started-at="2025-04-22T23:53:10 IST" name="tearDown" finished-at="2025-04-22T23:53:11 IST" duration-ms="537" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- Test.TC_007_LogoutTest -->
       <class name="Test.TC_006_PurchaseTest">
-        <test-method signature="verifyPurchaseFlow()[pri:0, instance:Test.TC_006_PurchaseTest@70325e14]" started-at="2025-04-22T22:42:04 IST" name="verifyPurchaseFlow" finished-at="2025-04-22T22:42:15 IST" duration-ms="11522" status="PASS">
+        <test-method signature="verifyPurchaseFlow()[pri:0, instance:Test.TC_006_PurchaseTest@70325e14]" started-at="2025-04-22T23:52:50 IST" name="verifyPurchaseFlow" finished-at="2025-04-22T23:53:03 IST" duration-ms="12935" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyPurchaseFlow -->

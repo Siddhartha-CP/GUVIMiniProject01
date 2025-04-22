@@ -27,7 +27,7 @@ public class TC_002_LoginTest extends ProjectSpecMethods {
         Assert.assertTrue(loginPage.isLoginButtonClickable(), "Login button is not clickable");
         System.out.println("Login button is clickable");
 
-        loginPage.loginWithCredentials("Firsttest1", "firsttest1?");
+        loginPage.loginWithCredentials("Siddha@855.com", "Siddha@2954");
 
         Assert.assertTrue(loginPage.isWelcomeUserVisible(), "User is not logged in");
         System.out.println("User successfully logged in");

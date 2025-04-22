@@ -15,8 +15,8 @@ public class TC_003_ProductCategoriesAndDisplayTest extends ProjectSpecMethods {
 
         LoginPage loginPage = new LoginPage(driver);
         loginPage.clickLoginButton();
-        loginPage.enterUsername("Firsttest1");
-        loginPage.enterPassword("firsttest1?");
+        loginPage.enterUsername("Siddha@855.com");
+        loginPage.enterPassword("Siddha@2954");
         loginPage.clickConfirmLogin();
 
         ProductDisplayPage displayPage = new ProductDisplayPage(driver);
