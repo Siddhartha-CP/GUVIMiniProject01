@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Demoblaze Automation Test Suite" parallel="false">
+
+    <test name="All Test Cases">
+        <classes>
+            <class name="Test.TC_001_SignUpTest"/>
+            <class name="Test.TC_002_LoginTest"/>
+            <class name="Test.TC_003_ProductCategoriesAndDisplayTest"/>
+            <class name="Test.TC_004_ProductDetailTest"/>
+            <class name="Test.TC_005_CartFunctionalityTest"/>
+            <class name="Test.TC_006_PurchaseTest"/>
+            <class name="Test.TC_007_LogoutTest"/>
+        </classes>
+    </test>
+
+</suite>
